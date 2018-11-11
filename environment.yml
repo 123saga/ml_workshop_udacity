@@ -1,0 +1,15 @@
+name: nlp
+
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - nltk
+  - gensim
+  - tensorflow
+  - keras
+  - jupyter
+  - notebook
